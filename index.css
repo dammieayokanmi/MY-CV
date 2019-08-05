@@ -87,7 +87,6 @@ span.other-names {
     display: grid;
     align-items: center;
     width: 100%;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 .front-end_longItem {
@@ -116,7 +115,7 @@ progress {
 }
 
 .education {
-    line-height: 5px;
+    line-height: 20px;
 }
 
 .education h5 {
@@ -126,7 +125,7 @@ progress {
 }
 
 .technical-skills {
-    line-height: 5px;
+    line-height: 15px;
     margin-bottom: 10px;
 }
 
