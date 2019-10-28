@@ -1,0 +1,22 @@
+{
+  "name": "my-cv",
+  "version": "1.0.0",
+  "description": "Ayokanmi Damilola's CV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dammieayokanmi/MY-CV.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Ayokanmi Damilola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dammieayokanmi/MY-CV/issues"
+  },
+  "homepage": "https://github.com/dammieayokanmi/MY-CV#readme"
+}
