@@ -1,4 +1,5 @@
 # MY-CV
 <a href="https://app.netlify.com/teams/dammieayokanmi/sites" target="_blank"
-                    >                <img src="images/68747470733a2f2f6170692e6e65746c6966792e636f6d2f6170692f76312f6261646765732f34616537373365312d333831302d346239662d623463622d6336643936353334316139342f6465706c6f792d737461747573.svg" alt="Netlify Success" srcset="">
+                    >                <img src="images/netlify.png
+                    " alt="Netlify Success" srcset=""> <span> SUCCESS </span>
 </a>
