@@ -1,11 +1,11 @@
 :root {
-    --color:#ffdb3a;
+    --color:#80b9d8;
     --text: #181515;
     --header: 'Lora', serif;
     --general: 'Josefin Sans', Ubuntu, sans-serif;
 }
 a{
-    color:#ffdb3a;
+    color:#80b9d8;
 }
 a:hover{
     color: #000;
@@ -27,7 +27,7 @@ body {
     /* height: 100vh; */
     padding: 30px;
     margin: 0;
-    border: 20px solid #ffdb3a;
+    border: 20px solid #80b9d8;
     background: #99999900;
     color: var(--text);
     line-height: 20px;
@@ -43,7 +43,7 @@ body {
 }
 .side-projects a:hover{
     transition: .2s;
-    color: #ffdb3a;
+    color: #80b9d8;
 }
 h3 {
     display: grid;
