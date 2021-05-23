@@ -96,7 +96,7 @@ span.other-names {
 .front-end_item {
     display: grid;
     align-items: center;
-    width: 100%;
+        grid-template-columns: 100px 2fr 20px;
 }
 
 .front-end_longItem {
