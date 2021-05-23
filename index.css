@@ -165,7 +165,7 @@ hr {
 }
 
 .side-projects {
-    height: 90px;
+    height: auto;
 }
 
 .side-projects a {
